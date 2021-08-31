@@ -12,15 +12,19 @@ sites:
   - name: tect.dev
     url: https://tect.dev
 
+notifications:
+  - type: slack
+    channel: C01L4PY7CEP
+assignees:
+  - budlebee
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /upptime-kundera # where "repo" is your repository name
-  name: upptime-kundera
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: kunderaByUpptime
-  introTitle: "쿤데라는 오픈소스 Upptime 과 Github Action 을 통해 모니터링 되고 있습니다."
-  introMessage: 쿤데라를 비롯 개인 프로젝트도 모니터링 중입니다.
+  name: upptime-kundera
+  introTitle: "**Uptime** for services."
+  introMessage: budlebee 가 제작한 서비스들 상태입니다. 오픈소스 Upptime 과 Github Action 을 통해 모니터링 되고 있습니다.
   navbar:
     - title: Budlebee
       href: /
