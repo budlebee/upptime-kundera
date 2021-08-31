@@ -19,11 +19,11 @@ status-website:
   name: upptime-kundera
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  name: upptime-kundera
+  introTitle: "쿤데라는 오픈소스 Upptime 과 Github Action 을 통해 모니터링 되고 있습니다."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
+    - title: Budlebee
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
