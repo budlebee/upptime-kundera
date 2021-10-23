@@ -58,9 +58,9 @@
     "url": "https://tect.dev",
     "icon": "https://favicons.githubusercontent.com/tect.dev",
     "slug": "tect-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 136,
     "timeMonth": 254,
     "timeYear": 259,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-23": 0
+    }
   }
 ]
