@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 73,
-    "timeWeek": 104,
-    "timeMonth": 223,
-    "timeYear": 224,
+    "time": 226,
+    "timeDay": 357,
+    "timeWeek": 145,
+    "timeMonth": 233,
+    "timeYear": 226,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 159,
-    "timeDay": 121,
-    "timeWeek": 96,
+    "time": 158,
+    "timeDay": 135,
+    "timeWeek": 97,
     "timeMonth": 130,
-    "timeYear": 159,
+    "timeYear": 158,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 158,
-    "timeDay": 95,
-    "timeWeek": 94,
-    "timeMonth": 126,
+    "timeDay": 116,
+    "timeWeek": 96,
+    "timeMonth": 125,
     "timeYear": 158,
     "dailyMinutesDown": {}
   },
@@ -59,18 +59,19 @@
     "icon": "https://favicons.githubusercontent.com/tect.dev",
     "slug": "tect-dev",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.02%",
+    "uptimeDay": "47.53%",
+    "uptimeWeek": "92.50%",
+    "uptimeMonth": "98.28%",
+    "uptimeYear": "99.02%",
     "time": 259,
-    "timeDay": 181,
-    "timeWeek": 136,
-    "timeMonth": 254,
+    "timeDay": 0,
+    "timeWeek": 137,
+    "timeMonth": 257,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2021-10-23": 0
+      "2021-10-24": 50,
+      "2021-10-23": 705
     }
   }
 ]
