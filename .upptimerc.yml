@@ -9,8 +9,6 @@ sites:
     url: https://foresty.net
   - name: Videoglancer
     url: https://videoglancer.com
-  - name: tect.dev
-    url: https://tect.dev
 
 notifications:
   - type: slack
