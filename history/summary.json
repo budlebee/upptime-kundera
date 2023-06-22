@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2023-06-22": 816,
+      "2023-06-22": 823,
       "2023-06-21": 1440,
       "2023-06-20": 1440,
       "2023-06-19": 1440,
@@ -170,19 +170,19 @@
     "url": "https://videoglancer.com",
     "icon": "https://icons.duckduckgo.com/ip3/videoglancer.com.ico",
     "slug": "videoglancer",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "77.81%",
-    "uptimeWeek": "96.83%",
-    "uptimeMonth": "99.27%",
+    "uptimeDay": "77.32%",
+    "uptimeWeek": "96.76%",
+    "uptimeMonth": "99.25%",
     "uptimeYear": "99.94%",
-    "time": 128,
-    "timeDay": 280,
-    "timeWeek": 229,
-    "timeMonth": 164,
-    "timeYear": 125,
+    "time": 129,
+    "timeDay": 289,
+    "timeWeek": 238,
+    "timeMonth": 169,
+    "timeYear": 126,
     "dailyMinutesDown": {
-      "2023-06-22": 320
+      "2023-06-22": 327
     }
   }
 ]
