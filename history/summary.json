@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2023-06-22": 259,
+      "2023-06-22": 270,
       "2023-06-21": 1440,
       "2023-06-20": 1440,
       "2023-06-19": 1440,
@@ -170,7 +170,7 @@
     "url": "https://videoglancer.com",
     "icon": "https://icons.duckduckgo.com/ip3/videoglancer.com.ico",
     "slug": "videoglancer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "96.62%",
     "uptimeWeek": "99.52%",
