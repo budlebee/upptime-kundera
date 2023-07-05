@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/foresty.net.ico",
     "slug": "foresty",
     "status": "down",
-    "uptime": "79.10%",
+    "uptime": "79.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "61.48%",
+    "uptimeYear": "61.47%",
     "time": 146,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2023-07-05": 356,
+      "2023-07-05": 395,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
@@ -183,12 +183,12 @@
     "url": "https://videoglancer.com",
     "icon": "https://icons.duckduckgo.com/ip3/videoglancer.com.ico",
     "slug": "videoglancer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "65.53%",
-    "uptimeWeek": "56.83%",
-    "uptimeMonth": "90.07%",
-    "uptimeYear": "99.17%",
+    "uptimeDay": "67.28%",
+    "uptimeWeek": "57.13%",
+    "uptimeMonth": "90.14%",
+    "uptimeYear": "99.18%",
     "time": 178,
     "timeDay": 242,
     "timeWeek": 253,
@@ -202,7 +202,7 @@
       "2023-07-01": 837,
       "2023-06-30": 641,
       "2023-06-29": 728,
-      "2023-06-28": 152
+      "2023-06-28": 121
     }
   }
 ]
