@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kundera.so.ico",
     "slug": "kundera",
     "status": "down",
-    "uptime": "71.52%",
+    "uptime": "71.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "11.19%",
-    "time": 444,
+    "time": 446,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 531,
     "dailyMinutesDown": {
-      "2025-02-26": 78,
+      "2025-02-27": 79,
+      "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
@@ -338,8 +339,7 @@
       "2024-03-03": 1440,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
-      "2024-02-29": 1440,
-      "2024-02-28": 1440
+      "2024-02-29": 1440
     }
   }
 ]
